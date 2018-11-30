@@ -1,0 +1,9 @@
+MAMP PRO will create copies of the MySQL databases located in
+
+/Applications/MAMP/db/mysql57
+
+and store them in
+
+/Library/Application Support/appsolute/MAMP PRO/db/mysql57
+
+Any modifications you make using MAMP PRO will go to these copies and will not be available in MAMP (which will continue to use the original databases).
